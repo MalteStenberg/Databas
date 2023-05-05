@@ -1,0 +1,11 @@
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\bin\Debug\Connect_DB_to_VS.exe.config
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\bin\Debug\Connect_DB_to_VS.exe
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\bin\Debug\Connect_DB_to_VS.pdb
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.csproj.AssemblyReference.cache
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.Form1.resources
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.Properties.Resources.resources
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.csproj.GenerateResource.cache
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.csproj.CoreCompileInputs.cache
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.exe
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.pdb
+C:\Users\malte.stenberg\Documents\Connect_DB_to_VS\Connect_DB_to_VS\obj\Debug\Connect_DB_to_VS.Form2.resources
